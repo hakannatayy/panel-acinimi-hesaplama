@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2", "WindowsFormsApp2\WindowsFormsApp2.csproj", "{A92274F6-EA13-4DC2-BB73-DCE5FC10F7E2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PanelHesaplama", "PanelHesaplama\PanelHesaplama.vdproj", "{CD22048F-CC80-49B7-B860-A79B551A9F9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A92274F6-EA13-4DC2-BB73-DCE5FC10F7E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92274F6-EA13-4DC2-BB73-DCE5FC10F7E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92274F6-EA13-4DC2-BB73-DCE5FC10F7E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92274F6-EA13-4DC2-BB73-DCE5FC10F7E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD22048F-CC80-49B7-B860-A79B551A9F9F}.Debug|Any CPU.ActiveCfg = Debug
+		{CD22048F-CC80-49B7-B860-A79B551A9F9F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76942A96-9EF1-4D99-9FB6-A14E6928F326}
+	EndGlobalSection
+EndGlobal
